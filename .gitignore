@@ -3,3 +3,4 @@
 .env
 .DS_Store
 data/**/klines/*.json
+data/gmgn_reverse/
